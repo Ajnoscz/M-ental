@@ -15,8 +15,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
-      <Image src="/matanojnormal.png" alt="matanoj" className=' w-[30vw] block m-auto mt-[20vh]' />
-      <h1 className=' text-center text-[10vw]'>entál</h1>
+      <Image src="/image.png" alt="matanoj" width="500" height="500" sizes="20vw" className='block m-auto mt-[20vh]' />
+      <p className=' abslute text-center text-9xl'>entál</p>
       
     </>
   )

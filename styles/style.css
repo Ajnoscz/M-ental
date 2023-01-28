@@ -8,10 +8,10 @@ body {
 }
 
 Image {
-  transform: translateX(-100px)
+  transform: translateX(-100px);
 }
 
-h1 {
-  transform: translateY(-250px) translateX(180px);
+p {
+  transform: translateY(-45vh) translateX(23vw);
 }
 
